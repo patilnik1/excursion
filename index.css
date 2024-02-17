@@ -1,11 +1,7 @@
 *{
-    background-color: aqua;
+    background-color: black;
 }
-
-h1{
+body{
     text-align: center;
-}
-
-p{
-    text-align: center;
+    color: aliceblue;
 }
